@@ -30,6 +30,14 @@ A multi-client marketing dashboard that traces every order back to its real sour
 A Google ADK multi-agent analyst for ADMD. Ad platforms mark their own homework. Duck checks it: claimed vs true CPA and ROAS, double-counted conversions and brand terms leaking into non-brand campaigns. It proposes fixes, but a human always approves.
 *Built at the GDG London AI DevCamp Agentic Hackathon 2026.*
 
+<p align="center">
+  <img src="hackathon-10th.png" alt="Ads Duck placed 10th out of 32 at the GDG London AI DevCamp 2026 Agentic Hackathon" width="380">
+</p>
+
+### 🏆 Achievements
+
+- **10th out of 32 projects** at the **GDG London AI DevCamp 2026 Agentic Hackathon** (Halloween edition, Encode Hub, London) for **Duck**. Judges: *"Beautiful UX and deep marketing knowledge for honest ad attribution."* [Demo](https://youtu.be/iU12QE6p_Nc) · [Repo](https://github.com/adsbyfaiza/ads-duck)
+
 ### 💡 What I believe
 
 > If a number makes the ads look good, check it twice.
